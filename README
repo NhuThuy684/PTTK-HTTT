@@ -1,4 +1,6 @@
 Đồ án Phân tích Thiết kế HTTT
 GVHD: Tiết Gia Hồng
 
-Nội dung đồ án:
+Nội dung đồ án: Phân tích và xây dựng hệ thống quản lý siêu thị điện thoại.
+Ngôn ngữ sử dụng: SQL Server và Winform C# (sử dụng mô hình 3 lớp DAO, DTO, BUS)
+
